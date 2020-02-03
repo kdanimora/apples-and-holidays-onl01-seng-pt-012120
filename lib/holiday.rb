@@ -94,5 +94,6 @@ holiday_hash.each do |k, v|
     holidays.push(k2)
   end 
   end
+end 
 p holidays
 end
